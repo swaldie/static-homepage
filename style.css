@@ -1,0 +1,19 @@
+body {
+  background: #fdf6e3;
+  color: #657b83;
+}
+a, a:hover, a:active {
+  color: #268bd2;
+}
+a:visited {
+  color: #6c71c4;
+}
+.container {
+  font-family: 'Helvetica Neue', Lato, Noto, Roboto, sans-serif;
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+}
+footer {
+  font-size: small;
+}
